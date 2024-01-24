@@ -20,9 +20,9 @@ Model Deployment: Deploy the trained model into production so that it can be use
 Technologies Used
 The project will use the following technologies:
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+1-Python 
+2-Pandas
+3-NumPy
+4-Scikit-learn
+5-Matplotlib
+6-Seaborn
