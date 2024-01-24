@@ -20,7 +20,7 @@ Model Deployment: Deploy the trained model into production so that it can be use
 Technologies Used
 The project will use the following technologies:
 
-1-Python 
+1-Python
 2-Pandas
 3-NumPy
 4-Scikit-learn
